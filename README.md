@@ -1,6 +1,5 @@
 # Grafos
 Repositório para atividades práticas da disciplina  DCE11721 - Teoria dos Grafos
-Licença wtfpl
 
 Conteúdo Programático:
 1. Introdução à Teoria dos Grafos e aplicações;
